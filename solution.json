@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "fullName": "Nguyễn Văn An",
+      "email": "an.nguyen@gmail.com",
+      "status": "đang học"
+    },
+    {
+      "fullName": "Trần Thị Bình",
+      "email": "binhtt@gmail.com",
+      "status": "bảo lưu"
+    },
+    {
+      "fullName": "Lê Hoàng Nam",
+      "email": "nam.le@gmail.com",
+      "status": "đang học"
+    },
+    {
+      "fullName": "Phạm Minh Đức",
+      "email": "duc.pham@gmail.com",
+      "status": "nghỉ học"
+    }
+  ],
+  "totalRecords": 4
+}
